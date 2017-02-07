@@ -8,4 +8,4 @@ This is the most important file in the java project to make it travis aware.
 
 ### Code Coverage
 <hr>
-WIP
+WIP - looking into Code Climate or Coveralls with Travis-CI
