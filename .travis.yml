@@ -1,3 +1,6 @@
 language: java
-  
-script: ./gradlew build
+
+sudo: true
+
+script:
+- ./gradlew build
